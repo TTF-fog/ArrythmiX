@@ -13,11 +13,12 @@ the prediction of caridiac events
 - [Scripts](scripts)
   - scripts for interfacing and interaction with the device
 - [Hardware](Hardware)
-  - Device schematics, PCB Design etc.
+  - Device schematics, PCB Design, BOM etc.
 - [Firmware](src)
   - firmware for the device
 - [ML](ML)
   - machine learning stuff
+- [Documents and Demos](doc)
 
 ### Images 
 <img src="images/confmatrix.png" alt="confusion matrix">
@@ -29,3 +30,5 @@ the prediction of caridiac events
 ![img_2.png](images/img_2.png) 
 
 ![img.png](img.png)
+![img_1.png](img_1.png)
+> Johneshwar wearing the model with the belt
