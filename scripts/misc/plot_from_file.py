@@ -6,7 +6,7 @@ from collections import deque
 
 # Configuration
 ECG_HZ = 360.0
-DATA_FILE = 'data.text'
+DATA_FILE = '../data.text'
 MAX_POINTS = 500  # Number of points to display on the plot at once
 PLOT_RANGE = (0, 4) # Y-axis range
 
