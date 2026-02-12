@@ -10,7 +10,7 @@ model = CNNBiLSTM(
     n_classes=6
 ).to(device)
 
-model_path = 'ml/best_model4.pth'
+model_path = '../ml/best_model4.pth'
 model.load_state_dict(torch.load(model_path, map_location=device))
 model.eval()
 def preprocess_live_chunk(chunk, train_means, train_stds, fold_index, target_length=171):
