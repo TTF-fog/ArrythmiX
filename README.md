@@ -1,6 +1,6 @@
 # Main Repo
 This is the main repo for the Arryhtmix Project, which aims to develop a novel, end-to-end framework for
-the prediction of caridiac events
+the prediction of cardiac events
 >
 > We have developed a novel end to end pipeline for the prediction of cardiac arrests through machine learning alongside a medical device to facilitate the collection of data for the model.
 >
