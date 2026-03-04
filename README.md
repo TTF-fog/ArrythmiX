@@ -1,5 +1,5 @@
 # Main Repo
-> For Blueprint Reviewers, [Final Version](Hardware/CAD/the_last_one.step) is what our end CAD model is. Design is goose.f3d present in the same file. BOM is present in root dir, [table format](#BOM) and [PCB folder](Hardware/PCB). PCB Folder contains gerbers.zip and design files. Firmware is in [firmware](src) and software in [software](scripts). Everything else is in ML or doc. Check [Sections](#sections) for descriptions. thank you for reviewing our project :)
+> For Blueprint Reviewers, [Final Version](Hardware/CAD/the_last_one.step) is what our end CAD model is. Design is goose.f3d present in the same file. BOM is present in root dir, [table format](#BOM) (collapsed) at bottom of readme and [PCB folder](Hardware/PCB). PCB Folder contains gerbers.zip and design files. Firmware is in [firmware](src) and software in [software](scripts). Everything else is in ML or doc. Check [Sections](#sections) for descriptions. thank you for reviewing our project :)
 
 This is the main repo for the Arryhtmix Project, which aims to develop a novel, end-to-end framework for
 the prediction of cardiac events
@@ -29,17 +29,61 @@ the prediction of cardiac events
 - [Documentation](Doc) 
   - Extra stuff relating to the project. Will add slide decks soon:tm:
 ### Images 
+<details>
+
+<summary> Machine Learning </summary>
+
 <img src="images/confmatrix.png" alt="confusion matrix">
+
+> Confusion Matrix
+
 <br>
-<img src="images/image(3).png" alt="train and vall graphs">    
+<img src="images/image(3).png" alt="train and vall graphs">  
+
+> train and valuation graphs
+
 <br>
-<br>
-<img src="images/img.png" alt="Rerun Dashboard (No Data)">
-<br>
-<img src="images/img_1.png" alt="Unsoldered PCB">
+
+</details>
 
 
 <details>
+
+<summary>Software</summary>
+
+<img src="images/img.png" alt="Rerun Dashboard (No Data)">
+
+![img.png](img.png)
+
+<br>
+
+
+</details>
+
+
+<details>
+
+<summary>Hardware</summary>
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
+<br>
+
+
+</details>
+
+<details>
+
+<summary>CAD Models</summary>
+
+[the_last_one(1).stl](Hardware/CAD/the_last_one.stl)
+
+</details>
+
+### Bill Of Materials
+<details id="BOM">
 
 <summary> Bill Of Materials </summary>
 
