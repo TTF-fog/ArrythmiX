@@ -10,7 +10,8 @@ the prediction of cardiac events
 >Upon the collection of 10 data points, the buffer is dispatched using BLE to the host device.
 > 
 >Upon being dispatched to the host device, two models are run on it. First, an Arrhythmia classification model based on the MIT-BIH dataset and architected with a BiLSTM and Random Forest classifier returns a dataclass which describes the type of arrhythmia if any. Secondly, a novel hybrid CNN-LSTM model trained on the Sudden Cardiac Arrest Holter Database predicts ventricular fibrillation risk across four temporal categories. The models have been quantised for edge deployment and offer platform flexibility. A f-score of 99 percent and of 85 percent is obtained from both models respectively.
-> - ISEF Abstract
+>
+- ISEF Abstract
 ### Sections
 - [Scripts](scripts)
   - [Miscellaneous](scripts/misc)
