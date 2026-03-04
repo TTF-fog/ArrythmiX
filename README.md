@@ -78,8 +78,9 @@ the prediction of cardiac events
 
 <summary>CAD Models</summary>
 
-[the_last_one(1).stl](Hardware/CAD/the_last_one.stl)
+![3D Model](Hardware/CAD/the_last_one.stl)
 
+> try navigating!
 </details>
 
 ### Bill Of Materials
