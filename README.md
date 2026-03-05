@@ -58,7 +58,6 @@ the prediction of cardiac events
 
 <br>
 
-
 </details>
 
 
@@ -69,6 +68,25 @@ the prediction of cardiac events
 ![img_2.png](img_2.png)
 
 ![img_3.png](img_3.png)
+
+<br>
+
+
+</details>
+
+<details>
+
+<summary>Hardware</summary>
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
+![img_4.png](img_4.png)
+
+![img_5.png](img_5.png)
+
+> unsoldered, sorry for bad quality
 
 <br>
 
