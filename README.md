@@ -1,5 +1,5 @@
 # Main Repo
-> For Blueprint Reviewers, [Final Version](Hardware/CAD/the_last_one.step) is what our end CAD model is. Design is goose.f3d present in the same file. BOM is present in root dir, [table format](#BOM) (collapsed) at bottom of readme and [PCB folder](Hardware/PCB). PCB Folder contains [gerbers.zip](Hardware/PCB/gerbers.zip) and design files. Firmware is in [firmware](src) and software in [software](scripts). Everything else is in ML or doc. Check [Sections](#sections) for descriptions. thank you for reviewing our project :)
+> For Blueprint Reviewers, [Final Version](Hardware/CAD/the_last_one.step) is what our end CAD model is. Design is goose.f3d present in the same file. BOM is present in root dir, [table format](#BOM) (collapsed) at bottom of readme and [PCB folder](Hardware/PCB). PCB Folder contains gerbers.zip and design files. Firmware is in [firmware](src) and software in [software](scripts). Everything else is in ML or doc. Check [Sections](#sections) for descriptions. thank you for reviewing our project :)
 
 This is the main repo for the Arryhtmix Project, which aims to develop a novel, end-to-end framework for
 the prediction of cardiac events
@@ -58,9 +58,21 @@ the prediction of cardiac events
 
 <br>
 
-
 </details>
 
+
+<details>
+
+<summary>Hardware</summary>
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
+<br>
+
+
+</details>
 
 <details>
 
