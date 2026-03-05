@@ -60,20 +60,6 @@ the prediction of cardiac events
 
 </details>
 
-
-<details>
-
-<summary>Hardware</summary>
-
-![img_2.png](img_2.png)
-
-![img_3.png](img_3.png)
-
-<br>
-
-
-</details>
-
 <details>
 
 <summary>Hardware</summary>
