@@ -3,6 +3,8 @@
 
 This is the main repo for the Arryhtmix Project, which aims to develop a novel, end-to-end framework for
 the prediction of cardiac events
+
+![VERY EPIC GIF IF BROKEN PLEASE WATCH](images/epic.gif)
 >
 > We have developed a novel end to end pipeline for the prediction of cardiac arrests through machine learning alongside a medical device to facilitate the collection of data for the model.
 >
@@ -52,9 +54,9 @@ the prediction of cardiac events
 
 <summary>Software</summary>
 
-<img src="images/img.png" alt="Rerun Dashboard (No Data)">
+<img src="images/rerun.png" alt="Rerun Dashboard (No Data)">
 
-![img.png](img.png)
+![img.png](images/img.png)Machine
 
 <br>
 
@@ -64,13 +66,13 @@ the prediction of cardiac events
 
 <summary>Hardware</summary>
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
 > unsoldered, sorry for bad quality
 
@@ -91,7 +93,7 @@ the prediction of cardiac events
 ### Bill Of Materials
 <details id="BOM">
 
-<summary> Bill Of Materials </summary>
+<summary> Bill Of Materials for PCB</summary>
 
 | JLCPCB BOM Tool - BOM Matching           |                   |                    |                                                                |               |                    |                    |                                                                                                                                                           |               |                                                                                                                                                                                  |                                                            |                                                                                                                       |                   |                                                                           |          |     |           |                 |
 |------------------------------------------|-------------------|--------------------|----------------------------------------------------------------|---------------|--------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------|----------|-----|-----------|-----------------|
